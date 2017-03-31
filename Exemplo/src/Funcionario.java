@@ -1,12 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author comp8
+ * Você precisa de uma licença
+ * @author Gilberto Vieira da Silva
  */
 public class Funcionario extends javax.swing.JFrame {
 
